@@ -47,3 +47,9 @@ Stay connected with me:
 ## 🖱️ Quick Actions
 [![GoIt Course](https://img.shields.io/badge/GoITeens-blue?style=for-the-badge)](https://goiteens.com/)  
 [![Start Python](https://img.shields.io/badge/CodeBasics-orange?style=for-the-badge)](https://code-basics.com/ru/languages/python)  
+
+
+## 📊 GitHub Statistics of beginnings
+![Nazar-Triukhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nazar-Triukhan&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazar-Triukhan&layout=compact&theme=radical)
