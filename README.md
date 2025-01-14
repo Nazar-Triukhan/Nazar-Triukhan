@@ -1,4 +1,4 @@
-![header](https://github.com/Nazar-Triukhan/Nazar-Triukhan/blob/main/image/photo_2025-01-14_12-27-39.jpg)
+![header]()
 
 ## I am a programmer studying to be a frontend developer.
 ## Skills
