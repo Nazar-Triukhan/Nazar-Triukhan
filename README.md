@@ -25,9 +25,12 @@
 
 ## 🏆 Certificates & Diplomas
 
-![alt-текст](./image/Backend-level.png)
+  <img src="./image/IMAGE%202025-06-12%2015:42:10.jpg" alt="Certificate 1" width="200"/>
+  <img src="./image/IMAGE%202025-06-12%2015:42:05.jpg" alt="Certificate 2" width="200"/>
+
 
 > ⚠️ Сертифікати ще додаються...
+
 
 ---
 
