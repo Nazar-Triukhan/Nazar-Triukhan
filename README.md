@@ -1,5 +1,12 @@
 ## I am a programmer studying to be a fullstack developer.
-## Skills
+
+I am currently studying **Frontend development** at **GoITeens**. During my learning journey, I have been an active and dedicated student. I’ve participated in team projects where I took on the role of **Team Lead**.  
+I have experience working in a team, building multiple projects — both collaboratively and individually — and I continue to develop new ones.  
+I always stay focused on my goal and consistently move forward to become a professional fullstack developer.
+
+---
+
+## 🛠️ Skills
 
 ### Frontend
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -11,26 +18,26 @@
 ### Tools
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+- ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
 ---
 
-## 📚 Current Learning Path
+## 📚 Education
 
-### 🚀 I will teach
-- JavaScript
-- React.js 
-- Node.js 
+- Currently studying **Frontend Development** at **GoITeens**
+- Participated in team projects as a **Team Lead**
+- Gained strong experience working in a team
+- Developed many projects and continue building more
 
 ---
 
 ## 🏆 Certificates & Diplomas
 
-  <img src="./image/IMAGE%202025-06-12%2015:42:10.jpg" alt="Certificate 1" width="200"/>
-  <img src="./image/IMAGE%202025-06-12%2015:42:05.jpg" alt="Certificate 2" width="200"/>
+<img src="./image/IMAGE%202025-06-12%2015:42:10.jpg" alt="Certificate 1" width="200"/>
+<img src="./image/IMAGE%202025-06-12%2015:42:05.jpg" alt="Certificate 2" width="200"/>
 
-
-> ⚠️ Сертифікати ще додаються...
-
+> ⚠️ More certificates coming soon...
 
 ---
 
