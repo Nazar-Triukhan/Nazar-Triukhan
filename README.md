@@ -7,7 +7,6 @@ I always stay focused on my goal and consistently move forward to become a profe
 ---
 
 ## 🛠️ Skills
-
 ### Frontend
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -51,7 +50,7 @@ I always stay focused on my goal and consistently move forward to become a profe
 ---
 
 ## 📊 GitHub Statistics of beginnings
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nazar-Triukhan&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Nazar-Triukhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nazar-Triukhan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazar-Triukhan&layout=compact&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazar-Triukhan&layout=compact&theme=radical)
