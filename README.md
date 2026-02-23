@@ -1,6 +1,6 @@
 ## I am a programmer studying to be a fullstack developer.
 
-I am currently studying **Frontend development** at **GoITeens**. During my learning journey, I have been an active and dedicated student. I’ve participated in team projects where I took on the role of **Team Lead**.  
+I am currently studying **Frontend development** at **GoITeens**. During my learning journey, I have been an active and dedicated student. I've participated in team projects where I took on the role of **Team Lead**.  
 I have experience working in a team, building multiple projects — both collaboratively and individually — and I continue to develop new ones.  
 I always stay focused on my goal and consistently move forward to become a professional fullstack developer.
 
@@ -13,6 +13,7 @@ I always stay focused on my goal and consistently move forward to become a profe
 - ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 - ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Tools
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -49,8 +50,12 @@ I always stay focused on my goal and consistently move forward to become a profe
 
 ---
 
-## 📊 GitHub Statistics of beginnings
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nazar-Triukhan&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazar-Triukhan&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/Nazar-Triukhan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nazar-Triukhan&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117" alt="GitHub Stats" />
+</a>
 
+<a href="https://github.com/Nazar-Triukhan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazar-Triukhan&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117" alt="Top Languages" />
+</a>
