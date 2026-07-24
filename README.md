@@ -53,10 +53,14 @@ I always stay focused on my goal and consistently move forward to become a profe
 
 ## 📊 GitHub Statistics
 
-<a href="https://github.com/Nazar-Triukhan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nazar-Triukhan&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117" alt="GitHub Stats" />
-</a>
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Nazar-Triukhan&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&cache_seconds=1800"
+  />
 
-<a href="https://github.com/Nazar-Triukhan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazar-Triukhan&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117" alt="Top Languages" />
-</a>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazar-Triukhan&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800"
+  />
+</p>
